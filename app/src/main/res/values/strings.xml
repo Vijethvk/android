@@ -1,0 +1,7 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">My Application4</string>
+    <string name="Rs">\u20B9</string>
+    <string name="order">ORDER SUMMARY</string>
+    <string name="order_summary_name">name :<xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+</resources>
